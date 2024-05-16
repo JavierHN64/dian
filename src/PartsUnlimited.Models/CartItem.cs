@@ -7,6 +7,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     //Clase para cart
+    //descripción de clase CartItem
     public class CartItem
     {
         [Key]
