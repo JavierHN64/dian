@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
     //Clase para cart
     //descripción de clase CartItem
+    //cambio sobre la rama release
     public class CartItem
     {
         [Key]
