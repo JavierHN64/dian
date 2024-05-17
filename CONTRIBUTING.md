@@ -1,4 +1,4 @@
-﻿# How to contribute [AX+by+C][qwertyuiop]
+# How to contribute [AX+by+C][qwertyuiop] only shitposting is permited there!!!
 
 One of the easiest ways to contribute is to participate in discussions and discuss issues. You can also contribute by submitting pull requests with code changes.
 
