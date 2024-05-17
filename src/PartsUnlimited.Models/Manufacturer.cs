@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //definición de clase para Manufacturer
     public class Manufacturer
     {
         public int ManufacturerId { get; set; }
